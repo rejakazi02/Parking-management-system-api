@@ -31,7 +31,7 @@ import { CouponModule } from './pages/offers/coupon/coupon.module';
 import { AdditionalPageModule } from './pages/additional-page/additional-page.module';
 import { CartModule } from './pages/cart/cart.module';
 import { WishListModule } from './pages/wish-list/wish-list.module';
-import { MultiPromoOfferModule } from './pages/offers/multi-promo-offer/multi-Promo-offer.module';
+// import { MultiPromoOfferModule } from './pages/offers/multi-promo-offer/multi-Promo-offer.module';
 import { DiscountPercentModule } from './pages/discount-percent/discount-percent.module';
 import { FileFolderModule } from './pages/file-folder/file-folder.module';
 import { GalleryModule } from './pages/gallery/gallery.module';
@@ -77,7 +77,7 @@ import {ParkingModule} from "./pages/customization/parking/parking.module";
 
     CartModule,
     WishListModule,
-    MultiPromoOfferModule,
+    // MultiPromoOfferModule,
     DiscountPercentModule,
     FileFolderModule,
     GalleryModule,
